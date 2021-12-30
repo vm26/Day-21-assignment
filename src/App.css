@@ -1,0 +1,9 @@
+.outer-container{
+    border:1px solid #ccc;
+    margin:30px;
+    padding:50px;
+    background:linear-gradient(to right,rgb(50, 50, 230),rgb(81, 132, 243));
+    text-align: center;
+    font-family:sans-serif;
+    
+}
